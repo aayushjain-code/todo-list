@@ -53,5 +53,11 @@ Join our community of developers creating universal apps.
 
 
 
-- Here's the demo video of the application
-https://github.com/user-attachments/assets/24c0b340-77d0-4262-85b1-69a422676228
+## Here's the demo video of the application
+# Project Documentation
+
+Check out the video below for a detailed walkthrough:
+
+[![Watch the video](https://github.com/user-attachments/assets/24c0b340-77d0-4262-85b1-69a422676228)](https://github.com/user-attachments/assets/24c0b340-77d0-4262-85b1-69a422676228)
+
+
