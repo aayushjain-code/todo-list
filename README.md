@@ -54,7 +54,6 @@ Join our community of developers creating universal apps.
 
 
 ## Here's the demo video of the application
-# Project Documentation
 
 Check out the video below for a detailed walkthrough:
 
